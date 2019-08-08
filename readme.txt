@@ -19,5 +19,5 @@ MUP Editor is a WordPress code editor for Must-Use Plugins (`wp-content/mu-plugi
 1. Use the Plugins->MU-Plugin Editor to open the editor
 
 == Changelog ==
-= 0.2 =
+= 0.3.0 =
 * Initial release.
